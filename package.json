@@ -1,0 +1,14 @@
+{
+  "name": "punbot",
+  "version": "1.0.0",
+  "description": "funbot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nodemon bot.js"
+  },
+  "author": "Brian",
+  "license": "ISC",
+  "dependencies": {
+    "discordie": "^0.8.0"
+  }
+}
