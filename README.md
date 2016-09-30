@@ -1,5 +1,5 @@
 # Dis-Bored
-##A small bot made for discord.
+##A fun side project made in Atom using Javascript and the Discordie API.
 
 In order for this bot to work, you're going to need **3** things.
 Node.JS
@@ -12,11 +12,11 @@ First, download the repository.
 
 Make sure you have Node.JS **INSTALLED**. You need it so the bot can run.
 
-Next open CMD as admin, and do *npm install package.json*.
+Next open CMD as admin, and do 'npm install package.json'.
 
 After the package is done installing open CMD as admin again.
 
-To run the bot, do the following command: *node bot.js*.
+To run the bot, do the following command: 'node bot.js'.
 
 The bot **should** successfully start up.
 
