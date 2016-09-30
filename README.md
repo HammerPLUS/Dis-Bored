@@ -1,12 +1,12 @@
-# Punbot-Discord
-A small bot made for discord.
+# Dis-Bored
+##A small bot made for discord.
 
 In order for this bot to work, you're going to need 3 things.
 Node.JS
 Discordie
 and a GUI like Atom.
 
-Installation.
+######Installation.
 
 First, download the repository.
 
@@ -20,8 +20,8 @@ To run the bot, do the following command: node bot.js
 
 The bot should successfully start up.
 
-For documentation on Discord's bot API please read here.
+######For documentation on Discord's bot API please read here.
 https://discordapp.com/developers/docs/intro
 
-For documentation on Discordie, please read here.
+######For documentation on Discordie, please read here.
 https://github.com/qeled/discordie
