@@ -25,3 +25,6 @@ https://discordapp.com/developers/docs/intro
 
 ######For documentation on Discordie, please read here.
 https://github.com/qeled/discordie
+
+#####For a command list for the Bot, please read here.
+**TBD**
