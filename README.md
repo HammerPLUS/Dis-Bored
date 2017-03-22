@@ -1,12 +1,12 @@
 # Dis-Bored
-##A fun side project made in Atom using Javascript and the Discordie API.
+## A fun side project made in Atom using Javascript and the Discordie API.
 
 In order for this bot to work, you're going to need **3** things.
 Node.JS
 Discordie
 and a GUI like Atom.
 
-######Installation.
+###### Installation.
 
 First, download the repository.
 
@@ -20,11 +20,11 @@ To run the bot, do the following command: 'node bot.js'.
 
 The bot **should** successfully start up.
 
-######For documentation on Discord's bot API please read here.
+###### For documentation on Discord's bot API please read here.
 https://discordapp.com/developers/docs/intro
 
-######For documentation on Discordie, please read here.
+###### For documentation on Discordie, please read here.
 https://github.com/qeled/discordie
 
-#####For a command list for the Bot, please read here.
+##### For a command list for the Bot, please read here.
 **TBD**
